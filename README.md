@@ -11,4 +11,16 @@
 	<li><a href="#2-spanish">Ir a la Documentación en Español</a></li>
 </ul>
 <h3 id="1-english">English Documentation</h3>
+<h2> What did I learn doing this project? </h2>
+<ul>
+	<li>a</li>
+</ul>
+<h4>Download and installation</h4>
+<h4>Usage</h4>
 <h3 id="2-spanish">Documentación en Español</h3>
+<h2> ¿Qué aprendí llevando a cabo este proyecto? </h2>
+<ul>
+	<li>a</li>
+</ul>
+<h4>Descarga e instalación</h4>
+<h4>Uso</h4>
