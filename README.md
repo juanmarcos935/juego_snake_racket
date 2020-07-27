@@ -1,6 +1,8 @@
-# Snake in Racket (La Serpiente en Racket)
+# Snake Game in Racket (Juego de la Serpiente en Racket)
 ![Snake Game Image](https://i.ibb.co/Zd1L72J/Captura-de-pantalla-de-2020-07-27-13-02-36.png)
-## Application Architecture (Arquitectura de la Aplicación)
+<p><b> English: </b> The program is a version of the famous game Snake, written in the programming language Racket (functional paradigm), which is from the Lisp family. This game was my first programming project at the University in 2017. It has a couple of additional functionalities: it allows multiplayer (2 people) in the same game, and there is a purple fruit (little square in the game) that gives more points and feeds more to the snake (makes it longer compared to the normal fruit). </p>
+<p><b> Español: </b> El programa es una versión del famoso juego Snake, escrito en el lenguaje de programación Racket (paradigma funcional), que es de la familia Lisp. Este juego fue mi primer proyecto de programación en la Universidad en el año 2017. Tiene un par de funcionalidades adicionales: permite el multijugador (2 personas) en una misma partida, y existe un fruto (el cuadrado pequeño del juego) de color morado, que da más puntos y alimenta más a la serpiente (la hace alargarse más que la fruta normal). </p>
+# Application Architecture (Arquitectura de la Aplicación)
 <p align="center">
   <img src="https://i.ibb.co/GV0rjdZ/Captura-de-pantalla-de-2020-07-27-13-16-01.png">
 </p>
