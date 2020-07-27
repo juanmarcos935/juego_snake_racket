@@ -1,2 +1,2 @@
-# snake-game-racket
-El desarrollo de un videojuego Snake, en el lenguaje de programación funcional Racket
+# Snake Game in Racket 
+![Snake Game Image](https://i.ibb.co/Zd1L72J/Captura-de-pantalla-de-2020-07-27-13-02-36.png)
