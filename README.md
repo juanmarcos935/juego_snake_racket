@@ -15,14 +15,14 @@
 <h2 id="1-english">English Documentation</h3>
 <h3> What did I learn doing this project? </h2>
 <ul>
-	<li>a</li>
+	<li>Carrying out this project I learned how to use Racket elements such as recursion, lists (manipulation of lists such as elimination, combination, search for a specific element, etc). Also applying this knowledge I learned about worlds (universe library) in Racket and how to create a video game in this language.</li>
 </ul>
 <h4>Download and installation</h4>
 <h4>Usage</h4>
 <h2 id="2-spanish">Documentación en Español</h3>
 <h3> ¿Qué aprendí llevando a cabo este proyecto? </h2>
 <ul>
-	<li>a</li>
+	<li>Realizando este proyecto aprendí como utilizar elementos de Racket como la recursion, listas (manipulacion de listas como eliminacion, combinacion, busqueda de un elemento en especifico, etc). Tambien aplicando estos conocimientos aprendi sobre mundos (libreria universe) en Racket y como crear un videojuego en este lenguaje.</li>
 </ul>
 <h4>Descarga e instalación</h4>
 <h4>Uso</h4>
