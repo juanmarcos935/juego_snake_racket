@@ -3,5 +3,5 @@
 <ul>
   <li><h4>Programming Language used:</h4>Racket</li>
   <li><h4>Approximate date:</h4>First semester of 2017</li>
-  <li><h4>Purpose:</h4>Learning the Racket programming language in general and its main characteristics such as recursion, list manipulation and its implementation by writing a typical video game such as Snake Game</li>
+  <li><h4>Purpose:</h4>Learning the Racket programming language in general and its main characteristics such as recursion, list manipulation and its implementation by writing a typical video game such as Snake Game. This was my first college project (for my first programming course)</li>
 </ul>
