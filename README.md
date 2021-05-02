@@ -7,12 +7,12 @@
   <li><h4>Preview:</h4>
   </li>
 </ul>
-    <p class="aligncenter">
+<p align="center">
     <img src="https://i.ibb.co/z5BvMg9/Screenshot-from-2021-05-01-18-34-21.png">
 </p>
-    <p class="aligncenter">
+<p align="center">
     <img src="https://i.ibb.co/HzPMMmZ/Screenshot-from-2021-05-01-18-32-59.png">
 </p>
-    <p class="aligncenter">
+<p align="center">
     <img src="https://i.ibb.co/Ryk7rYv/Screenshot-from-2021-05-01-18-34-14.png">
 </p>
